@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+* {
+    background-color: black;
+}
+
+.heading {
+    color: white;
+}
+.paragraph {
+    color: #02ff72;
+    font-weight: 600;
+    font-style: italic;
+    text-decoration: underline dotted aqua;
+    font-size: 20px;
+}

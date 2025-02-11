@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}   
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.table  {
+    border: 8px;
+    border-width: 1px;
+    border-style: solid;
+    border: 1px solid transparent;
+    width: 100%;
+    padding: 5px;
+    background-color: #f4f4f4;
+
+}
+.table .table-caption {
+    color: #2c3f50;
+    font-size: 15px;
+    font-weight: 600;
+}
+.table .table-heading {
+    background-color: #027bff;
+    color: white;
+    text-align: center;
+
+}
+.table .table-body {
+    text-align: center;
+}
+
+tbody tr:nth-child(2) {
+    background-color: white;
+}
+
+
+
+

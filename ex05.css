@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}  
+
+.container {
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.container .heading {
+    color: #115f93;
+    font-weight: 600;
+}
+.container .paragraph {
+    font-weight: 500;
+}
+
+.container .block-code {
+    background-color: #fffaef;
+    padding: 8px;
+    border-left: 8px solid #e0ca4c;
+    font-weight: 400;
+}
+.container .font-sans-serif {
+    font-family: sans-serif;
+    font-size: 13px;
+}
